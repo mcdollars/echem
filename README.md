@@ -1,5 +1,6 @@
 """
-This program analyses the chronoamperometry mesurements taken by Gamry (J. Phys. Chem. C 2017, 121, 8, 4760–4764).
+
+This program analyses the electrochemical chronoamperometry mesurements taken by Gamry potentiostat (J. Phys. Chem. C 2017, 121, 8, 4760–4764).
 
 The differential capacitance can be derived from the data as a function of applied bias voltage.
 
@@ -10,4 +11,5 @@ Ref: J. Phys. Chem. C 2017, 121, 8, 4760–4764 (https://pubs.acs.org/doi/10.102
 Python 2.7
 
 @author: Hualin Zhan
+
 """
